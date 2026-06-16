@@ -1,2 +1,11 @@
-# C-Programming-Practice
-A collection of C programming exercises and practice problems.
+# C Programming Practice
+
+This repository contains my C programming practice organized by topics.
+
+## Topics
+- Basics
+- Loops
+- Arrays
+- Strings
+- Functions
+- Pointers
