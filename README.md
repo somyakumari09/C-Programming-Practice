@@ -9,3 +9,5 @@ This repository contains my C programming practice organized by topics.
 - Strings
 - Functions
 - Pointers
+- File Handling
+- Dynamic Memory Allocation
